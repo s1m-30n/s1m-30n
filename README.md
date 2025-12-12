@@ -27,7 +27,7 @@ A passionate backend developer, Web3 engineer, TypeScript and Python enthusiast,
 <br>
 <summary>&#127942 <b>GitHub Trophy</b></summary><br/>
 
-![Github Trophy](https://github-profile-trophy.vercel.app/?username=simple-codes22&theme=onedark&column=-1)
+![Github Trophy](https://github-profile-trophy.vercel.app/?username=s1m-30n&theme=onedark&column=-1)
 
 
 
@@ -35,12 +35,12 @@ A passionate backend developer, Web3 engineer, TypeScript and Python enthusiast,
 
 <summary>&#9889 <b>GitHub Stats</b></summary><br/>
 
-[![Simeon Akanbi's Github Stats](https://readme-stats.warengonzaga.com/api?username=simple-codes22&show_icons=true&count_private=true)](https://github.com/warengonzaga/github-readme-stats) [![Top Language](https://readme-stats.warengonzaga.com/api/top-langs?username=simple-codes22&layout=compact)](https://github.com/simple-codes22/github-readme-stats)
+[![Simeon Akanbi's Github Stats](https://readme-stats.warengonzaga.com/api?username=s1m-30n&show_icons=true&count_private=true)](https://github.com/warengonzaga/github-readme-stats) [![Top Language](https://readme-stats.warengonzaga.com/api/top-langs?username=simple-codes22&layout=compact)](https://github.com/s1m-30n/github-readme-stats)
 
 
 <summary>&#128187 <b>GitHub Streak</b></summary><br/>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=simple-codes22)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=s1m-30n)
 
 
 
