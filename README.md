@@ -35,7 +35,7 @@ A passionate backend developer, Web3 engineer, TypeScript and Python enthusiast,
 
 <summary>&#9889 <b>GitHub Stats</b></summary><br/>
 
-[![Simeon Akanbi's Github Stats](https://readme-stats.warengonzaga.com/api?username=s1m-30n&show_icons=true&count_private=true)](https://github.com/warengonzaga/github-readme-stats) [![Top Language](https://readme-stats.warengonzaga.com/api/top-langs?username=simple-codes22&layout=compact)](https://github.com/s1m-30n/github-readme-stats)
+[![Simeon Akanbi's Github Stats](https://readme-stats.warengonzaga.com/api?username=s1m-30n&show_icons=true&count_private=true)](https://github.com/warengonzaga/github-readme-stats) [![Top Language](https://readme-stats.warengonzaga.com/api/top-langs?username=s1m-30n&layout=compact)](https://github.com/s1m-30n/github-readme-stats)
 
 
 <summary>&#128187 <b>GitHub Streak</b></summary><br/>
