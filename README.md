@@ -27,8 +27,7 @@ A passionate backend developer, Web3 engineer, TypeScript and Python enthusiast,
 <br>
 <summary>&#127942 <b>GitHub Trophy</b></summary><br/>
 
-![Github Trophy](https://github-profile-trophy.vercel.app/?username=s1m-30n&theme=onedark&column=-1)
-
+[![Github Trophy](https://github-profile-trophy.vercel.app/?username=s1m-30n&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 
@@ -52,17 +51,8 @@ A passionate backend developer, Web3 engineer, TypeScript and Python enthusiast,
 
 <!-- markdownlint-enable MD033 -->
 
-<!-- --- -->
+---
 
-<!-- 💻💖☕ by [Waren Gonzaga](https://warengonzaga.com) | [YHWH](https://youtu.be/HHrxS4diLew?t=44) 🙏 -->
 
-<!-- 
-[personal website]: https://warengonzaga.com
-[business website]: https://wgtechlabs.com
-[biolink]: https://bio.link/warengonzaga
-[facebook]: https://facebook.com/warengonzagaofficial
-[instagram]: https://instagram.com/warengonzagaofficial
-[twitter]: https://twitter.com/warengonzaga
-[youtube]: https://youtube.com/warengonzaga
-[github]: https://github.com/warengonzaga
--->
+[personal website]: https://s1m30n.me
+[github]: https://github.com/S1m-30n
