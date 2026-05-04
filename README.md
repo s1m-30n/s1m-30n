@@ -12,7 +12,7 @@ A passionate backend developer, Web3 engineer, TypeScript and Python enthusiast,
 
 - 💝 Building solutions for fun
 - 🚀 Pushing node_modules to production
-- 🌱 Currently Building [FinTag](https://fintag.io), [Notation](https://getnotation.app) and [Matryx](https://matryx.store)
+- 🌱 Currently Building [FinTag](https://fintag.io), [Notation](https://getnotation.app) and [Matryx](https://matryx.live)
 - 📚 Continuous student on Web3, Blockchain, and AI
 - 🎯 Wasting my time to save other people's time
 
